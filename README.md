@@ -1,12 +1,3 @@
-
-
-<style>
-    table {
-        width: 100%;    }
-</style>
-
-    
-
 # Reading-notes
 
 This folder groups together reading notes about various topics among my scientific interests. The aim is to allow synthesis, creatitity, and most importantly compensation for my low-RAM brain! 
@@ -15,7 +6,7 @@ This folder groups together reading notes about various topics among my scientif
 
 ## Themes included
 
-|Theme|Sub-themes|
+|Theme <br> <img width=200/> |Sub-themes <br> <img width=800/>|
 |:-------------|:-----------------------------------------|
 AM fungi| Parasitism-mutualism continuum <br> NP stoichiometry <br> Dispersal <br> Biogeography <br> Community assembly <br> Preferential partner selection <br> Life-history strategies <br> ...|
 Community Ecology|Coexistence <br> Priority effects <br> Metacommunities <br> Networks <br> Higher-order interactions <br> Invasion <br> ...|
