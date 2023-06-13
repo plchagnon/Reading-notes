@@ -1,7 +1,7 @@
 # General
 
-|Author-Year|Journal|Findings|
-|:-------|:-----: |:--------------------------------------|
+|Authors|Journal|Findings|
+|:-----------|:-----: |:----------------------------------|
 |McGill et al. 1986|Can J Scoil Sci|DOM only make a small contribution to total SOM. (yet important part of C cycle!)|
 |[Bolan et al. 2011](https://www.sciencedirect.com/science/article/pii/B9780123855312000013)|Adv Agronomy (ch1)|Even though DOM is small part of total SOM, contributes to several key aspects of C cycle including providing substrate to denitrifiers, enhancing mobility of pesticides, chelating metals, etc. <br> |
 [Kalbitz et al. 2000](https://journals.lww.com/soilsci/Fulltext/2000/04000/CONTROLS_ON_THE_DYNAMICS_OF_DISSOLVED_ORGANIC.1.aspx)|Soil Science|Litter and humus are the most important contributors to DOM in soils <br> Conditions promoting mineralization (e.g., high microb activity, fungal abund, ...) increase DOM <br> 
@@ -12,7 +12,7 @@
 
 # Forest DOM
 
-|Author-Year|Journal|Findings|
+|Authors|Journal|Findings|
 |:-------|:-----: |:--------------------------------------|
 |[Thieme et al. 2019](https://bg.copernicus.org/articles/16/1411/2019)|Biogeosciences|Coniferous forests = higher lignin-like DOC and higher DOC overall. <br> DOM was better segregated between forest types in stem throughfall and litter than subsoil (selective consumption of labile = all subsoils were recalcitrant?) <br> |
 |[Cleveland et al. 2004](https://link.springer.com/article/10.1007/s10021-003-0236-7)|Ecosystems|Decomposition experiment with litter leachates of different spp <br> Hydrophilic non-humic substances more rapidly degraded than humic, hydrophobic substances <br> Overall more than 70% DOC degraded in ~first 20 days <br> no clear increase in $^{13}\delta$ C in this aqueous incubation (litter extract with diluted soil inoculum), the natural increase with soil depth must be mediated by sorption dynamics and later preferential substrate use?|
